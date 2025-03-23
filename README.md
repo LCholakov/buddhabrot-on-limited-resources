@@ -7,9 +7,9 @@ Dependancies:
 numpy, matplotlib, multiprocessing, scipy
 
 Important params: 
-On i5-4200U below runs ~20-30 min for the default 3840x2160 image.
-    max_iter = 5000
-    total_samples = 3000000
+On i5-4200U below runs ~20-30 min for the default 3840x2160 image. 
+max_iter = 5000
+total_samples = 3000000
 For a quick and easy result use
-    max_iter = 1000
-    total_samples = 1000000
+max_iter = 1000
+total_samples = 1000000
